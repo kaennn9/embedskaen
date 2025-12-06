@@ -1,0 +1,30 @@
+{
+  "name": "embedskaen",
+  "version": "1.0.3",
+  "description": "A powerful Discord.js embed utility library with predefined types and easy-to-use methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "embed",
+    "utility",
+    "bot",
+    "discord-embeds"
+  ],
+  "author": "Kaen",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaen/embedskaen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kaen/embedskaen/issues"
+  },
+  "homepage": "https://github.com/kaen/embedskaen#readme"
+}
